@@ -1,2 +1,4 @@
-Type a quick draft of your blog post. Remember, you can always edit it later
-hello world
+---
+title: "big day"
+date: 2019-03-07
+---
